@@ -1,0 +1,31 @@
+Guia basica de Guit
+
+Comandos basicos:
+
+git init = Crear un proyecto nuevo
+
+git add <file> = pasar archivos del area de trabajo a el
+area de actualizacion y guardado
+
+git status = consulta para verificar donde esta un archivo 
+en especifico
+
+git commit = envia un archivo de starting a repositorio
+
+git push = es para subir el archivo a un repositorio remoto 
+
+git pull = traer cambio de los archivos de otras personas
+
+git clone = clonar repositorios
+
+Estados de Git:
+
+Working directory (mi area de trabajo
+con todos mis archivos local) al terminal 
+se envia al starting area
+
+Starting area (Zona para agregar archivos 
+para el guardado) al terminar aqui 
+se envia al repositorio
+
+Repository Fase final
